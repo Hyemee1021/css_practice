@@ -1,0 +1,15 @@
+/*how to comment in CSS*/
+p {
+  color: red;
+}
+#fifth {
+  color: purple;
+}
+.pg {
+  color: green;
+} /*even though last sentance takes over 
+the previous css, id has a higer proprity*/
+[href] {
+  color: black;
+  text-decoration: none;
+}
